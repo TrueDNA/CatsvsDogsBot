@@ -1,5 +1,5 @@
 # CatsvsDogsBot
-🖱️ clicker for [https://t.me/catsdogs_game_bot](https://t.me/catsdogs_game_bot/join?startapp=558455838)
+🖱️ clicker for [https://t.me/catsdogs_game_bot](https://t.me/catsdogs_game_bot/join?startapp=6142904262)
 
 ## Recommendation before use
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
@@ -54,11 +54,11 @@ Before you begin, make sure you have the following installed:
  
 # Telegram Channel
 
-✅ Channel for information and training on Telegram airdrop bots 🔷 Follow us on Telegram : [SIZIFAIRDROP](https://t.me/sizifairdrop)
+✅ Channel for information and training on Telegram airdrop bots 🔷 Follow us on Telegram : 
 
 # Donate
-Your donations help us continue our work. Thank you for your support! | 💳 [Donate](https://sizvpn.com/donate/)  
+Your donations help us continue our work. Thank you for your support! | 💳 [Donate] 
 
 # Discussion
 
-If you have an question or something you can ask in here : [F.Davoodi](https://t.me/sizifart)
+If you have an question or something you can ask in here :
